@@ -1,0 +1,11 @@
+﻿,Customer_ID,Risk_Level,Prob_31-60_DPD,Prob_61+_DPD
+41,C042,High Risk (61+ DPD),0.09,0.64
+54,C055,Medium Risk (31-60 DPD),0.7,0.03
+91,C092,Medium Risk (31-60 DPD),0.64,0.01
+28,C029,Medium Risk (31-60 DPD),0.7,0
+14,C015,Medium Risk (31-60 DPD),0.63,0
+11,C012,Medium Risk (31-60 DPD),0.63,0
+34,C035,Medium Risk (31-60 DPD),0.59,0
+37,C038,Medium Risk (31-60 DPD),0.82,0
+35,C036,Medium Risk (31-60 DPD),0.7,0
+74,C075,Medium Risk (31-60 DPD),0.72,0
